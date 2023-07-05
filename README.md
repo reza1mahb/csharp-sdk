@@ -1,9 +1,9 @@
-Binance DEX C# SDK
+BNB Chain DEX C# SDK
 ==================
 
 Source code is under MIT License (MIT)
 
-C# SDK is inspired by Binance DEX Java SDK, (used a lot in previous Binance DEX "competition")
+C# SDK is inspired by BNB Chain DEX Java SDK, (used a lot in previous BNB Chain DEX "competition")
 
 Project uses following NuGet packages:
 - NBitcoin
@@ -15,7 +15,7 @@ Project uses following NuGet packages:
 SDK supports:
 - Creating Wallets
 - Creating Signature
-- Broadcast to Binance DEX chain
+- Broadcast to BNB Chain DEX chain
 - HTTP API (https://binance-chain.github.io/api-reference/dex-api/paths.html)
 - WebSockets Streams (https://binance-chain.github.io/api-reference/dex-api/ws-streams.html)
 - Node RPC (https://docs.binance.org/api-reference/node-rpc.html)
